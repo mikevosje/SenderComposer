@@ -1,6 +1,7 @@
 {
     "name": "wappz/sender",
     "type": "library",
+    "version": "1.0.0",
     "description": "PHP package for connecting to the Sender service",
     "keywords": [
         "sender"
