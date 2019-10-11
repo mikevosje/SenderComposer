@@ -1,0 +1,18 @@
+{
+    "name": "wappz/sender",
+    "type": "library",
+    "description": "PHP package for connecting to the Sender service",
+    "keywords": [
+        "sender"
+    ],
+    "homepage": "https://wappz.nl",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mike Vosters",
+            "email": "info@wappz.nl",
+            "homepage": "http://wappz.nl",
+            "role": "Developer"
+        }
+    ]
+}
